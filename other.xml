@@ -1,0 +1,258 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_GETTERS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="true" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://cxf.apache.org/configuration/parameterized-types" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/configuration/parameterized-types.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/cxf-beans.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/configuration/cxf-beans.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/http-conf.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-transports-http/3.1.3/cxf-rt-transports-http-3.1.3.jar!/schemas/configuration/http-conf.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/parameterized-types.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/configuration/parameterized-types.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/security.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/configuration/security.xsd" />
+    <resource url="http://cxf.apache.org/schemas/configuration/soap.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-bindings-soap/3.1.3/cxf-rt-bindings-soap-3.1.3.jar!/schemas/configuration/soap.xsd" />
+    <resource url="http://cxf.apache.org/schemas/core.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/core.xsd" />
+    <resource url="http://cxf.apache.org/schemas/jaxrs-common.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.3/cxf-rt-frontend-jaxrs-3.1.3.jar!/schemas/jaxrs-common.xsd" />
+    <resource url="http://cxf.apache.org/schemas/jaxrs.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.3/cxf-rt-frontend-jaxrs-3.1.3.jar!/schemas/jaxrs.xsd" />
+    <resource url="http://cxf.apache.org/schemas/jaxws.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxws/3.1.3/cxf-rt-frontend-jaxws-3.1.3.jar!/schemas/jaxws.xsd" />
+    <resource url="http://cxf.apache.org/schemas/policy.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/policy.xsd" />
+    <resource url="http://cxf.apache.org/schemas/simple.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-simple/3.1.3/cxf-rt-frontend-simple-3.1.3.jar!/schemas/simple.xsd" />
+    <resource url="http://cxf.apache.org/schemas/ws/addressing.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-addr/3.1.3/cxf-rt-ws-addr-3.1.3.jar!/schemas/ws-addr-conf.xsd" />
+    <resource url="http://cxf.apache.org/schemas/wsdl/http-conf.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-transports-http/3.1.3/cxf-rt-transports-http-3.1.3.jar!/schemas/wsdl/http-conf.xsd" />
+    <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/oasis-200401-wss-wssecurity-secext-1.0.xsd" />
+    <resource url="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/oasis-200401-wss-wssecurity-utility-1.0.xsd" />
+    <resource url="http://schemas.xmlsoap.org/ws/2004/08/addressing" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/wsdl/addressing.xsd" />
+    <resource url="http://schemas.xmlsoap.org/ws/2004/09/policy/ws-policy.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/ws-policy-200409.xsd" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/wsdl/wsdl.xsd" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/2003-02-11.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/wsdl/wsdl.xsd" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/http/" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-core/3.1.3/cxf-core-3.1.3.jar!/schemas/wsdl/http.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.2.2.RELEASE/spring-aop-4.2.2.RELEASE.jar!/org/springframework/aop/config/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/cache/spring-cache-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/cache/config/spring-cache-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/cache/spring-cache-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/cache/config/spring-cache-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/cache/spring-cache-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/cache/config/spring-cache-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/cache/spring-cache-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/cache/config/spring-cache-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/cache/spring-cache-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/cache/config/spring-cache-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/cache/spring-cache.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/cache/config/spring-cache-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/config/spring-context-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/jdbc/spring-integration-jdbc-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-jdbc/4.2.1.RELEASE/spring-integration-jdbc-4.2.1.RELEASE.jar!/org/springframework/integration/jdbc/config/spring-integration-jdbc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/jdbc/spring-integration-jdbc.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-jdbc/4.2.1.RELEASE/spring-integration-jdbc-4.2.1.RELEASE.jar!/org/springframework/integration/jdbc/config/spring-integration-jdbc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/scripting/spring-integration-scripting-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-scripting/4.2.1.RELEASE/spring-integration-scripting-4.2.1.RELEASE.jar!/org/springframework/integration/scripting/config/spring-integration-scripting-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/scripting/spring-integration-scripting-core-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-scripting/4.2.1.RELEASE/spring-integration-scripting-4.2.1.RELEASE.jar!/org/springframework/integration/scripting/config/spring-integration-scripting-core-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/scripting/spring-integration-scripting-core.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-scripting/4.2.1.RELEASE/spring-integration-scripting-4.2.1.RELEASE.jar!/org/springframework/integration/scripting/config/spring-integration-scripting-core-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/scripting/spring-integration-scripting.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-scripting/4.2.1.RELEASE/spring-integration-scripting-4.2.1.RELEASE.jar!/org/springframework/integration/scripting/config/spring-integration-scripting-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/spring-integration-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.2.1.RELEASE/spring-integration-core-4.2.1.RELEASE.jar!/org/springframework/integration/config/xml/spring-integration-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/spring-integration.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/4.2.1.RELEASE/spring-integration-core-4.2.1.RELEASE.jar!/org/springframework/integration/config/xml/spring-integration-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/ws/spring-integration-ws-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-ws/4.2.1.RELEASE/spring-integration-ws-4.2.1.RELEASE.jar!/org/springframework/integration/ws/config/spring-integration-ws-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/ws/spring-integration-ws.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-ws/4.2.1.RELEASE/spring-integration-ws-4.2.1.RELEASE.jar!/org/springframework/integration/ws/config/spring-integration-ws-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/xml/spring-integration-xml-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-xml/4.2.1.RELEASE/spring-integration-xml-4.2.1.RELEASE.jar!/org/springframework/integration/xml/config/spring-integration-xml-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/integration/xml/spring-integration-xml.xsd" location="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-xml/4.2.1.RELEASE/spring-integration-xml-4.2.1.RELEASE.jar!/org/springframework/integration/xml/config/spring-integration-xml-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.2.RELEASE/spring-jdbc-4.2.2.RELEASE.jar!/org/springframework/jdbc/config/spring-jdbc-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.2.RELEASE/spring-jdbc-4.2.2.RELEASE.jar!/org/springframework/jdbc/config/spring-jdbc-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.2.RELEASE/spring-jdbc-4.2.2.RELEASE.jar!/org/springframework/jdbc/config/spring-jdbc-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.2.RELEASE/spring-jdbc-4.2.2.RELEASE.jar!/org/springframework/jdbc/config/spring-jdbc-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.2.RELEASE/spring-jdbc-4.2.2.RELEASE.jar!/org/springframework/jdbc/config/spring-jdbc-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.2.RELEASE/spring-jdbc-4.2.2.RELEASE.jar!/org/springframework/jdbc/config/spring-jdbc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/jdbc/spring-jdbc.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.2.2.RELEASE/spring-jdbc-4.2.2.RELEASE.jar!/org/springframework/jdbc/config/spring-jdbc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/jee/spring-jee.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/ejb/config/spring-jee-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/lang/spring-lang.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scripting/config/spring-lang-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/ldap/spring-ldap-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/ldap/spring-ldap-core/2.0.2.RELEASE/spring-ldap-core-2.0.2.RELEASE.jar!/org/springframework/ldap/config/spring-ldap-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/ldap/spring-ldap.xsd" location="$MAVEN_REPOSITORY$/org/springframework/ldap/spring-ldap-core/2.0.2.RELEASE/spring-ldap-core-2.0.2.RELEASE.jar!/org/springframework/ldap/config/spring-ldap-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.2.RELEASE/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.2.RELEASE/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.2.RELEASE/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.2.RELEASE/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.2.RELEASE/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.2.RELEASE/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.2.RELEASE/spring-webmvc-4.2.2.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE-sources.jar!/org/springframework/oxm/config/spring-oxm-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm/spring-oxm-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE.jar!/org/springframework/oxm/config/spring-oxm-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm/spring-oxm-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE.jar!/org/springframework/oxm/config/spring-oxm-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm/spring-oxm-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE.jar!/org/springframework/oxm/config/spring-oxm-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm/spring-oxm-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE.jar!/org/springframework/oxm/config/spring-oxm-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm/spring-oxm-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE.jar!/org/springframework/oxm/config/spring-oxm-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm/spring-oxm-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE.jar!/org/springframework/oxm/config/spring-oxm-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/oxm/spring-oxm.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-oxm/4.2.2.RELEASE/spring-oxm-4.2.2.RELEASE.jar!/org/springframework/oxm/config/spring-oxm-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-2.0.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-2.0.1.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-2.0.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-2.0.2.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-2.0.4.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-2.0.4.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-3.0.3.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-3.0.3.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/security/spring-security.xsd" location="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.0.2.RELEASE/spring-security-config-4.0.2.RELEASE.jar!/org/springframework/security/config/spring-security-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scheduling/config/spring-task-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scheduling/config/spring-task-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scheduling/config/spring-task-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scheduling/config/spring-task-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scheduling/config/spring-task-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scheduling/config/spring-task-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/scheduling/config/spring-task-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-tool-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.2.RELEASE/spring-tx-4.2.2.RELEASE.jar!/org/springframework/transaction/config/spring-tx-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-2.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-2.5.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-3.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-3.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-3.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-3.2.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-4.2.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.2.2.RELEASE/spring-beans-4.2.2.RELEASE.jar!/org/springframework/beans/factory/xml/spring-util-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/web-services/web-services-1.5.xsd" location="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.2.2.RELEASE/spring-ws-core-2.2.2.RELEASE.jar!/org/springframework/ws/config/web-services-1.5.xsd" />
+    <resource url="http://www.springframework.org/schema/web-services/web-services-2.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.2.2.RELEASE/spring-ws-core-2.2.2.RELEASE.jar!/org/springframework/ws/config/web-services-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/web-services/web-services.xsd" location="$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/2.2.2.RELEASE/spring-ws-core-2.2.2.RELEASE.jar!/org/springframework/ws/config/web-services-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/websocket/spring-websocket-4.0.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.2.1.RELEASE/spring-websocket-4.2.1.RELEASE.jar!/org/springframework/web/socket/config/spring-websocket-4.0.xsd" />
+    <resource url="http://www.springframework.org/schema/websocket/spring-websocket-4.1.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.2.1.RELEASE/spring-websocket-4.2.1.RELEASE.jar!/org/springframework/web/socket/config/spring-websocket-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/websocket/spring-websocket.xsd" location="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/4.2.1.RELEASE/spring-websocket-4.2.1.RELEASE.jar!/org/springframework/web/socket/config/spring-websocket-4.2.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/xml.xsd" />
+    <resource url="http://www.w3.org/2006/07/ws-policy.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/ws-policy-200607.xsd" />
+    <resource url="http://www.w3.org/2007/02/ws-policy.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/ws-policy-200702.xsd" />
+    <resource url="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" location="$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-ws-policy/3.1.3/cxf-rt-ws-policy-3.1.3.jar!/schemas/xmldsig-core-schema.xsd" />
+    <ignored-resource url="NEurn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.springframework.org/schema/p" />
+  </component>
+  <component name="Network Tools">
+    <option name="commonports" value="&lt;ports&gt;&lt;port port=&quot;20&quot; desc=&quot;FTP (File Transfer Protocol) - Data&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;21&quot; desc=&quot;FTP (File Transfer Protocol) - Control&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;22&quot; desc=&quot;SSH (ssh, scp copy or sftp)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;23&quot; desc=&quot;Telnet&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;25&quot; desc=&quot;SMTP (for sending outgoing emails)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;34&quot; desc=&quot;Remote File (RF)—used to transfer files between machines&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;37&quot; desc=&quot;TIME protocol&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;42&quot; desc=&quot;WINS&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;43&quot; desc=&quot;WHOIS function&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;53&quot; desc=&quot;DNS Server (Domain name service for DNS requests)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;67&quot; desc=&quot;DHCP Server&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;68&quot; desc=&quot;DHCP Client&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;70&quot; desc=&quot;Gopher Protocol&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;79&quot; desc=&quot;Finger protocol&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;80&quot; desc=&quot;HTTP default port&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;110&quot; desc=&quot;POP3 (for receiving email)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;119&quot; desc=&quot;NNTP (Network News Transfer Protocol)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;143&quot; desc=&quot;IMAP4 Protocol (for email service)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;194&quot; desc=&quot;IRC&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;389&quot; desc=&quot;LDAP (light weight directory access)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;443&quot; desc=&quot;Secure HTTP over SSL (https)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;465&quot; desc=&quot;Secure SMTP (email) using SSL&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;990&quot; desc=&quot;Secure FTP using SSL&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;993&quot; desc=&quot;Secure IMAP protocol over SSL (for emails)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;1433&quot; desc=&quot;Microsoft SQL server&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;1521&quot; desc=&quot;Oracle database server&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;2082&quot; desc=&quot;Cpanel default port&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;2083&quot; desc=&quot;Cpanel over SSL&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;2222&quot; desc=&quot;DirectAdmin Server Control Panel&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;3306&quot; desc=&quot;MySQL Database Server&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;4643&quot; desc=&quot;Virtuosso Power Panel&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;5432&quot; desc=&quot;PostgreSQL Database Server&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;8080&quot; desc=&quot;HTTP port (alternative one for port 80)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;8087&quot; desc=&quot;Plesk Control Panel Port (default)&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;8443&quot; desc=&quot;Plesk Server Control Panel over SSL&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;9999&quot; desc=&quot;Urchin Web Analytics&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;10000&quot; desc=&quot;Webmin Server Control Panel&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;19638&quot; desc=&quot;Ensim Server Control Panel&quot; scan=&quot;Y&quot; /&gt;&lt;port port=&quot;49152&quot; desc=&quot;MediaTomb UPnP server&quot; scan=&quot;Y&quot; /&gt;&lt;/ports&gt;" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

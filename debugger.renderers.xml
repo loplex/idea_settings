@@ -1,0 +1,45 @@
+<application>
+  <component name="NodeRendererSettings">
+    <option name="HEX_VIEW_ENABLED" value="false" />
+    <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="true" />
+    <Renderer ID="ArrayRenderer">
+      <option name="NAME" value="unnamed" />
+      <option name="ENABLED" value="true" />
+      <option name="START_INDEX" value="0" />
+      <option name="END_INDEX" value="99" />
+      <option name="ENTRIES_LIMIT" value="99" />
+    </Renderer>
+    <Renderer ID="ToStringRenderer">
+      <option name="NAME" value="unnamed" />
+      <option name="ENABLED" value="true" />
+      <option name="USE_CLASS_FILTERS" value="false" />
+    </Renderer>
+    <Renderer ID="ClassRenderer">
+      <option name="NAME" value="unnamed" />
+      <option name="ENABLED" value="true" />
+      <option name="SHOW_SYNTHETICS" value="true" />
+      <option name="SHOW_VAL_FIELDS_AS_LOCAL_VARIABLES" value="true" />
+      <option name="SHOW_STATIC" value="false" />
+      <option name="SHOW_STATIC_FINAL" value="false" />
+      <option name="SHOW_FQ_TYPE_NAMES" value="false" />
+      <option name="SHOW_DECLARED_TYPE" value="true" />
+      <option name="SHOW_OBJECT_ID" value="true" />
+      <option name="SHOW_STRINGS_TYPE" value="false" />
+    </Renderer>
+    <Renderer ID="PrimitiveRenderer">
+      <option name="NAME" value="Primitive" />
+      <option name="SHOW_HEX_VALUE" value="true" />
+    </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="DOMResult" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="javax.xml.transform.dom.DOMResult" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="javax.xml.transform.dom.DOMResult" />
+          <option name="LABEL_EXPRESSION" value="javax.xml.transform.TransformerFactory tf = javax.xml.transform.TransformerFactory.newInstance();   javax.xml.transform.Transformer transformer = tf.newTransformer();  transformer.setOutputProperty( javax.xml.transform.OutputKeys.METHOD, &quot;xml&quot;);  transformer.setOutputProperty(javax.xml.transform.OutputKeys.INDENT,&quot;yes&quot;);  transformer.setOutputProperty(&quot;{http://xml.apache.org/xslt}indent-amount&quot;, &quot;3&quot; );    javax.xml.transform.dom.DOMSource source = new javax.xml.transform.dom.DOMSource(this);  if (source == null)       return &quot;Corrupted XML document: &quot; + this.toString();    java.io.StringWriter os = new java.io.StringWriter();  javax.xml.transform.stream.StreamResult result = new javax.xml.transform.stream.StreamResult(os);  transformer.transform(source,result);    return os.toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
+</application>

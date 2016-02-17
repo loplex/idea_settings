@@ -1,0 +1,10 @@
+<list display="aaa">
+  <action id="JavaDebuggerActions" />
+  <action id="ShowProcessWindow" />
+  <action id="ConfigureIcs" />
+  <action id="WicketForgeExtractProperties" />
+  <action id="WicketForgeCreatePage" />
+  <action id="WicketForgeCreatePanel" />
+  <action id="WicketForgeToggle" />
+  <action id="WicketForgeViewStructure" />
+</list>
