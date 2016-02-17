@@ -7,4 +7,5 @@
   <action id="WicketForgeCreatePanel" />
   <action id="WicketForgeToggle" />
   <action id="WicketForgeViewStructure" />
+  <action id="QuickList.$Separator$" />
 </list>

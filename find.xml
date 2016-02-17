@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/lopin/DEV/workspace/medischeduler/web/src/main/java/cz/artiisgroup/medisched/web/page/homePage/MyTasksMenuItem.java'" />
-    <option name="defaultScopeName" value="File '/home/lopin/DEV/workspace/medischeduler/web/src/main/java/cz/artiisgroup/medisched/web/page/homePage/MyTasksMenuItem.java'" />
-    <option name="SEARCH_SCOPE" value="File '/home/lopin/DEV/workspace/medischeduler/web/src/main/java/cz/artiisgroup/medisched/web/page/homePage/MyTasksMenuItem.java'" />
+    <option name="customScope" value="Project 'medi-workspace'" />
+    <option name="defaultScopeName" value="Project 'medi-workspace'" />
+    <option name="SEARCH_SCOPE" value="Project 'medi-workspace'" />
   </component>
 </application>
