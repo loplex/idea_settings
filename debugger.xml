@@ -1,7 +1,6 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
     </data-views>
     <general>
